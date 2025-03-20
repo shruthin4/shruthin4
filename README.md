@@ -1,23 +1,28 @@
-<!-- Dark theme header with typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!;I'm+Shruthin+Reddy;Data+Scientist;ML+Engineer;Problem+Solver" />
-</p>
-
+<!-- Simple, clean header with typing effect -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="250">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!" alt="Typing SVG" />
 </div>
 
-<!-- Simple stylish intro -->
-<h1 align="center">👋 Hello, I'm Shruthin!</h1>
-<h3 align="center">A passionate Data Scientist & ML Engineer</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" alt="Developer" height="200">
+</div>
 
-<!-- Simple motivational code -->
+<!-- Clean introduction without print statements -->
+<h1 align="center">👋 I'm Shruthin Reddy</h1>
+<h3 align="center">Data Science and Machine Learning Enthusiast</h3>
+
+<!-- Centered code block with syntax highlighting -->
+<div align="center">
+
 ```python
-while not success:
-    try_again()
-    learn_more()
-    success = never_give_up()
+while True:
+    learn_new_skills()
+    build_amazing_projects()
+    if opportunity_knocks():
+        grab_it_with_both_hands()
 ```
+
+</div>
 
 <!-- Social badges -->
 <p align="center">
