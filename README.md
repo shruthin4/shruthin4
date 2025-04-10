@@ -41,7 +41,7 @@ while True:
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I'm a Data Science professional with expertise in building end-to-end predictive models and analytics solutions. Currently pursuing a Master's in Computer Science at the University of Louisville (GPA: 3.96/4.0) and working as a Grading Assistant, with previous experience as a Data Science Intern at VE Projects.
+I'm a Data Science and Machine Learning enthusiast with expertise in building end-to-end predictive models and analytics solutions. Currently pursuing a Master's in Computer Science at the University of Louisville (GPA: 3.96/4.0) and working as a Grading Assistant, with previous experience as a Data Science Intern at VE Projects private Limited.
 </p>
 
 <p>
@@ -81,7 +81,7 @@ I'm a Data Science professional with expertise in building end-to-end predictive
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project Preview" width="60">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Project Preview" width="60">
         </a>
-        <p><strong>Python, scikit-learn, Power BI</strong> - End-to-end ML system predicting 30-day hospital readmission risk for diabetic patients with interactive dashboards.</p>
+        <p><strong>Python, scikit-learn</strong> - End-to-end ML system predicting 30-day hospital readmission risk for diabetic patients with interactive dashboards.</p>
       </div>
     </td>
   </tr>
@@ -103,7 +103,7 @@ I'm a Data Science professional with expertise in building end-to-end predictive
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project Preview" width="60">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Project Preview" width="60">
         </a>
-        <p><strong>Python, Pandas, Power BI</strong> - Comprehensive analysis of cricket data with 15+ interactive visualizations for performance trends and match strategies.</p>
+        <p><strong>Python, Pandas</strong> - Comprehensive analysis of cricket data with 15+ interactive visualizations for performance trends and match strategies.</p>
       </div>
     </td>
   </tr>
