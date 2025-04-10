@@ -67,7 +67,7 @@ I'm a Data Science professional with expertise in building end-to-end predictive
     <td width="50%">
       <h3 align="center">AI-Powered Interactive Resume Chatbot</h3>
       <div align="center">
-        <a href="https://github.com/shruthinreddysainapuram" target="_blank">
+        <a href="https://github.com/shruthin4/Portfolio-Chatbot" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Project Preview" width="60">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project Preview" width="60">
         </a>
@@ -75,9 +75,9 @@ I'm a Data Science professional with expertise in building end-to-end predictive
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Healthcare Readmission Risk Predictor</h3>
+      <h3 align="center">Healthcare Readmission Prediction using Machine Learning </h3>
       <div align="center">
-        <a href="https://github.com/shruthinreddysainapuram" target="_blank">
+        <a href="https://github.com/shruthin4/diabetic-readmission-prediction" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project Preview" width="60">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Project Preview" width="60">
         </a>
@@ -87,9 +87,9 @@ I'm a Data Science professional with expertise in building end-to-end predictive
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">News Article Categories Classifier</h3>
+      <h3 align="center">News Article Classification</h3>
       <div align="center">
-        <a href="https://github.com/shruthinreddysainapuram" target="_blank">
+        <a href="https://github.com/shruthin4/News-Articles-Classification" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project Preview" width="60">
           <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="NLP" width="60"/>
         </a>
@@ -99,7 +99,7 @@ I'm a Data Science professional with expertise in building end-to-end predictive
     <td width="50%">
       <h3 align="center">Cricket Data Analysis Project</h3>
       <div align="center">
-        <a href="https://github.com/shruthinreddysainapuram" target="_blank">
+        <a href="https://github.com/shruthin4/IPL-Cricket-Analysis-2007-2024" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project Preview" width="60">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Project Preview" width="60">
         </a>
@@ -155,8 +155,8 @@ I'm a Data Science professional with expertise in building end-to-end predictive
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+    <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="pyspark"/>
   </a>
 </p>
 </details>
@@ -182,6 +182,25 @@ I'm a Data Science professional with expertise in building end-to-end predictive
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>Cloud & Infrastructure</b></summary>
+<br>
+<p align="left">
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
+  </a>
+  <a href="https://databricks.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/ETL%2FELT%20Pipelines-00ADEF?style=for-the-badge&logoColor=white" alt="etl"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Lakehouse-00C7B7?style=for-the-badge&logoColor=white" alt="datalakehouse"/>
   </a>
 </p>
 </details>
@@ -227,12 +246,16 @@ I'm a Data Science professional with expertise in building end-to-end predictive
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/></td>
-      <td><img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></td>
+      <td><a href="https://learn.microsoft.com/en-us/users/sainapuramshruthinreddy-8350/credentials/22bf8547ab570526" target="_blank"><img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/></a></td>
+      <td><a href="https://learn.microsoft.com/en-us/users/sainapuramshruthinreddy-8350/credentials/8ce17b5447b691eb" target="_blank"><img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></a></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/IIT%20Kharagpur-AI%20Applications-5C068C?style=for-the-badge&logoColor=white" alt="IIT Kharagpur"/></td>
+      <td><a href="https://credentials.databricks.com/e0804545-cfcd-4d26-96fa-58e4dc17ddb4" target="_blank"><img src="https://img.shields.io/badge/Databricks-Data%20Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/></a></td>
+    </tr>
+    <tr>
       <td><img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></td>
+      <td></td>
     </tr>
   </table>
 </div>
