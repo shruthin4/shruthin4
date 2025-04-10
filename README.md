@@ -75,7 +75,7 @@ I'm a Data Science and Machine Learning enthusiast with expertise in building en
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Healthcare Readmission Prediction using Machine Learning </h3>
+      <h3 align="center">Predicting 30-Day Readmission Risk in Diabetic Patients Using Machine Learning </h3>
       <div align="center">
         <a href="https://github.com/shruthin4/diabetic-readmission-prediction" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project Preview" width="60">
